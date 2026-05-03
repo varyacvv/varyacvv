@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">👩🏼‍💻 Barbara 👩🏼‍💻</h1>
 
-<!--
-**varyacvv/varyacvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Frontend Developer 💻
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About
+
+Focused on creating clean, responsive and user-friendly web interfaces.  
+
+---
+
+## 🛠 Skills
+
+- HTML5 🌐  
+- CSS3 / SCSS 🎨  
+- JavaScript (ES6+) ⚡  
+- React ⚛️  
+- Git / GitHub 🔧    
+
+---
+
+## 🚀 Projects
+
+- JULES — Landing Page 💎
+- BAGATELLE — Landing Page 👜
+---
+
+## 📫 Contact
+
+GitHub: varyacvv <br>
+Telegram: varyacvv
