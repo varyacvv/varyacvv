@@ -21,7 +21,7 @@ Focused on creating clean, responsive and user-friendly web interfaces.
 - Git / GitHub 🔧
 - Figma ✨
 - Adobe Photoshop 🖌️
-- Adobe Illustator ✏️   
+- Adobe Illustrator ✏️   
 
 ---
 
