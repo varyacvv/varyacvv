@@ -14,11 +14,14 @@ Focused on creating clean, responsive and user-friendly web interfaces.
 
 ## 🛠 Skills
 
-- HTML5 🌐  
-- CSS3 / SCSS 🎨  
-- JavaScript (ES6+) ⚡  
+- HTML 🌐  
+- CSS / SCSS 🎨  
+- JavaScript 📜  
 - React ⚛️  
-- Git / GitHub 🔧    
+- Git / GitHub 🔧
+- Figma ✨
+- Adobe Photoshop 🖌️
+- Adobe Illustator ✏️   
 
 ---
 
