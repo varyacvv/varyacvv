@@ -32,19 +32,9 @@
 * JavaScript (ES6+)
 * React
 * TypeScript
-* Responsive Design
-* Flexbox / CSS Grid
-
-**Инструменты**
-
-* Git
-* GitHub
-* Vite
-* npm
-* Figma
 
 **Дополнительно**
-
+* Git
 * REST API
 * Jest
 * Adobe Photoshop
@@ -72,16 +62,6 @@
 **Стек:** React · TypeScript · Vite · LocalStorage
 
 ---
-
-### Сейчас изучаю
-
-* React
-* TypeScript
-* JavaScript
-* REST API
-* Jest
-* Архитектуру frontend-приложений
-* Компонентный подход
 
 ### 📫 Контакты
 
@@ -112,19 +92,10 @@ I am currently looking for an opportunity as a **Frontend Developer** where I ca
 * JavaScript (ES6+)
 * React
 * TypeScript
-* Responsive Design
-* Flexbox / CSS Grid
-
-**Tools**
-
-* Git
-* GitHub
-* Vite
-* npm
-* Figma
 
 **Additional**
 
+* Git
 * REST API
 * Jest
 * Adobe Photoshop
@@ -152,16 +123,6 @@ Interactive game built with React and TypeScript featuring component-based archi
 **Stack:** React · TypeScript · Vite · LocalStorage
 
 ---
-
-### Currently Learning
-
-* React
-* TypeScript
-* JavaScript
-* REST API
-* Jest
-* Frontend application architecture
-* Component-based development
 
 ### 📫 Contacts
 
