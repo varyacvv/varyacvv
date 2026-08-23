@@ -42,14 +42,14 @@
 
 ### Проекты
 
-**🚀 JULES — Landing Page**
+**🚀 JULES**
 Адаптивный лендинг ювелирного магазина с семантической HTML-разметкой, современной вёрсткой и интерактивными элементами.
 
 **Стек:** HTML · SCSS · JavaScript
 
 ---
 
-**🚀 BAGATELLE — Landing Page**
+**🚀 BAGATELLE**
 Адаптивный лендинг магазина сумок с акцентом на визуальную подачу, структуру интерфейса и responsive design.
 
 **Стек:** HTML · SCSS · JavaScript
@@ -63,7 +63,7 @@
 
 ---
 
-🚀 **OutGoing**
+**🚀 OutGoing**
 Веб-сервис для поиска мероприятий с фильтрацией, сортировкой, модальными окнами и избранным. Адаптивный интерфейс, семантическая разметка и хранение данных в LocalStorage.
 
 Стек: HTML · SCSS · JavaScript · LocalStorage
@@ -110,14 +110,14 @@ I am currently looking for an opportunity as a **Frontend Developer** where I ca
 
 ### Projects
 
-**🚀 JULES — Landing Page**
+**🚀 JULES**
 Responsive landing page focused on semantic HTML, modern styling and interactive elements.
 
 **Stack:** HTML · SCSS · JavaScript
 
 ---
 
-**🚀 BAGATELLE — Landing Page**
+**🚀 BAGATELLE**
 Responsive landing page focused on visual presentation, structured layouts and responsive design.
 
 **Stack:** HTML · SCSS · JavaScript
@@ -131,7 +131,7 @@ Interactive game built with React and TypeScript featuring component-based archi
 
 ---
 
-🚀 **OutGoing**
+**🚀 OutGoing**
 A web service for discovering events with search, filtering, sorting, modal windows and favorites. Responsive interface, semantic markup, SCSS architecture and LocalStorage data persistence.
 
 Stack: HTML · SCSS · JavaScript · LocalStorage
