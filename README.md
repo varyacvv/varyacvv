@@ -63,6 +63,13 @@
 
 ---
 
+🚀 **OutGoing**
+Веб-сервис для поиска мероприятий с фильтрацией, сортировкой, модальными окнами и избранным. Адаптивный интерфейс, семантическая разметка и хранение данных в LocalStorage.
+
+Стек: HTML · SCSS · JavaScript · LocalStorage
+
+---
+
 ### 📫 Контакты
 
 - **GitHub:** [@varyacvv](https://github.com/varyacvv)
@@ -121,6 +128,13 @@ Responsive landing page focused on visual presentation, structured layouts and r
 Interactive game built with React and TypeScript featuring component-based architecture, state management, custom hooks and data persistence.
 
 **Stack:** React · TypeScript · Vite · LocalStorage
+
+---
+
+🚀 **OutGoing**
+A web service for discovering events with search, filtering, sorting, modal windows and favorites. Responsive interface, semantic markup, SCSS architecture and LocalStorage data persistence.
+
+Stack: HTML · SCSS · JavaScript · LocalStorage
 
 ---
 
