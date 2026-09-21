@@ -37,38 +37,12 @@
 * Git
 * REST API
 * Jest
+* SQL
+* Fastify
+* Docker
 * Adobe Photoshop
 * Adobe Illustrator
 
-### Проекты
-
-**🚀 JULES**
-Адаптивный лендинг ювелирного магазина с семантической HTML-разметкой, современной вёрсткой и интерактивными элементами.
-
-**Стек:** HTML · SCSS · JavaScript
-
----
-
-**🚀 BAGATELLE**
-Адаптивный лендинг магазина сумок с акцентом на визуальную подачу, структуру интерфейса и responsive design.
-
-**Стек:** HTML · SCSS · JavaScript
-
----
-
-**🚀 Tamagotchi Game**
-Интерактивная браузерная игра на React и TypeScript с компонентной архитектурой, состоянием, кастомными хуками и сохранением данных.
-
-**Стек:** React · TypeScript · Vite · LocalStorage
-
----
-
-**🚀 OutGoing**
-Веб-сервис для поиска мероприятий с фильтрацией, сортировкой, модальными окнами и избранным. Адаптивный интерфейс, семантическая разметка и хранение данных в LocalStorage.
-
-Стек: HTML · SCSS · JavaScript · LocalStorage
-
----
 
 ### 📫 Контакты
 
@@ -105,38 +79,11 @@ I am currently looking for an opportunity as a **Frontend Developer** where I ca
 * Git
 * REST API
 * Jest
+* SQL
+* Fastify
+* Docker
 * Adobe Photoshop
 * Adobe Illustrator
-
-### Projects
-
-**🚀 JULES**
-Responsive landing page focused on semantic HTML, modern styling and interactive elements.
-
-**Stack:** HTML · SCSS · JavaScript
-
----
-
-**🚀 BAGATELLE**
-Responsive landing page focused on visual presentation, structured layouts and responsive design.
-
-**Stack:** HTML · SCSS · JavaScript
-
----
-
-**🚀 Tamagotchi Game**
-Interactive game built with React and TypeScript featuring component-based architecture, state management, custom hooks and data persistence.
-
-**Stack:** React · TypeScript · Vite · LocalStorage
-
----
-
-**🚀 OutGoing**
-A web service for discovering events with search, filtering, sorting, modal windows and favorites. Responsive interface, semantic markup, SCSS architecture and LocalStorage data persistence.
-
-Stack: HTML · SCSS · JavaScript · LocalStorage
-
----
 
 ### 📫 Contacts
 
